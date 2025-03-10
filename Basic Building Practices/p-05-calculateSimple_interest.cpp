@@ -1,3 +1,5 @@
+//Qs: Write a programme that takes data of loan from user and then provides the amount of interest for a certain period.
+
 #include <iostream>
 using namespace std;
 int main(){
