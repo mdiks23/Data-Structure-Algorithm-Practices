@@ -1,4 +1,4 @@
-//Take a number from user and then provide the sum of total and the sum of even and odd numbers.
+//Qs: Take a number from user and then provide the sum of total and the sum of even and odd numbers.
 #include <iostream>
 using namespace std;
 int main() {
